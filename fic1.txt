@@ -2,3 +2,4 @@ fic1 line 1
 branche dev
 merge branche dev
 branche dev 2
+commit dev2
